@@ -6,7 +6,7 @@
 ### 💕 Sobre mí  
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid.  
 - 🌱 Aprendiendo y reforzando **Java, Python, SQL, HTML, CSS, XML y más**.  
-- 🎀 Mi meta: **convertirme en una programadora profesional, creativa y cute** 💖.  
+- 🎀 Mi meta: **convertirme en una programadora profesional, creativa** 💖.  
 
 ---
 
