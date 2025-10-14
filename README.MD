@@ -14,11 +14,13 @@
 
 #### Lenguajes  
 ![Java](https://img.shields.io/badge/Java-ff69b4.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaSripit](https://img.shields.io/badge/XML-f48fb1.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFC0CB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ffb6c1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ff80ab.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ec407a.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-f48fb1.svg?style=for-the-badge&logo=xml&logoColor=white)
+
 
 #### Herramientas ✨  
 ![Git](https://img.shields.io/badge/Git-ff99cc.svg?style=for-the-badge&logo=git&logoColor=white)
