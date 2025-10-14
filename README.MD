@@ -14,7 +14,7 @@
 
 #### Lenguajes  
 ![Java](https://img.shields.io/badge/Java-ff69b4.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f48fb1.svg?style=for-the-badge&logo=xml&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFC0CB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ffb6c1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ff80ab.svg?style=for-the-badge&logo=html5&logoColor=white)
