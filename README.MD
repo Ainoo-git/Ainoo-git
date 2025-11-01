@@ -27,7 +27,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-ff66b2.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-f8bbd0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f06292.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Git-ff99cc.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-ff66b2.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ---
 
 ### 📊 Mis estadísticas en GitHub  
