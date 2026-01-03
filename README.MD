@@ -31,20 +31,6 @@
 
 ---
 
-### 📊 Mis estadísticas en GitHub  
-
-<div align="center">
-  
-![Ainoo-git GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainoo-git&show_icons=true&theme=rose_pine&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainoo-git&layout=compact&theme=rose_pine&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ainoo-git&theme=rose_pine&hide_border=true)
-
-</div>
-
----
-
 ### 🌸 Actividad reciente  
 
 ![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Ainoo-git&theme=dracula&bg_color=ffc0cb&color=ffffff&line=ff69b4&point=ec407a&area=true&hide_border=true)
