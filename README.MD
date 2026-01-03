@@ -32,23 +32,11 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ainoo-git&show_icons=true&theme=dracula&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainoo-git&layout=compact&theme=dracula" />
-</p>
-
----
-
 ## 💬 ¿Quieres colaborar o comentar?
 
 ✨ ¡Siempre estoy abierta a feedback en mis repos!  
 📬 Puedes contactarme por GitHub o desde mis proyectos.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
-</p>
 
 🌷 *Gracias por visitar mi perfil. Sigue mi progreso y proyectos en GitHub!* 🌷
