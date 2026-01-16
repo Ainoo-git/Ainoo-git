@@ -23,6 +23,9 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff66b2?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-f48fb1?style=for-the-badge&logo=xml&logoColor=white)
 
+### 🗄️ Acceso a datos
+![JDBC](https://img.shields.io/badge/JDBC-ff66b2?style=for-the-badge&logo=java&logoColor=white)
+
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-ff99cc?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ff66b2?style=for-the-badge&logo=github&logoColor=white)
