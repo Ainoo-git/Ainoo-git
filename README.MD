@@ -3,7 +3,7 @@
 
 ---
 
-## 🌟 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid, enfocada en crear soluciones que funcionan y resuelven problemas reales.  
 Especializada en **Java y bases de datos**, también trabajo con **Python, SQL, Kotlin y desarrollo web**.
@@ -14,9 +14,9 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 
 ---
 
-# 🛠️ Tecnologías y herramientas
+#  Tecnologías y herramientas
 
-## 🧠 Lenguajes
+##  Lenguajes
 
 ![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +29,7 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 
 ---
 
-## ⚙️ Frameworks y desarrollo web
+##  Frameworks y desarrollo web
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-ff69b4?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-ff80ab?style=for-the-badge&logo=quasar&logoColor=white)
@@ -37,7 +37,7 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 
 ---
 
-## 🗄️ Bases de datos y acceso a datos
+##  Bases de datos y acceso a datos
 
 ![SQL](https://img.shields.io/badge/SQL-ffb6c1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ff66b2?style=for-the-badge&logo=java&logoColor=white)
@@ -47,7 +47,7 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 
 ---
 
-## 🧰 Herramientas
+##  Herramientas
 
 ![Git](https://img.shields.io/badge/Git-ff99cc?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ff66b2?style=for-the-badge&logo=github&logoColor=white)
@@ -58,7 +58,7 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 
 ---
 
-# 🚀 Proyectos destacados
+#  Proyectos destacados
 
 ### 🐾 PetFect – Aplicación de gestión de mascotas
 
@@ -79,7 +79,7 @@ Funcionalidades principales:
 
 ---
 
-### ⚙️ Desarrollo de aplicaciones con arquitectura de microservicios
+###  Desarrollo de aplicaciones con arquitectura de microservicios
 
 Experiencia adquirida durante práctica profesional en proyecto empresarial.
 
@@ -93,7 +93,7 @@ Tecnologías utilizadas:
 
 ---
 
-## 💬 ¿Quieres colaborar o comentar?
+## ¿Quieres colaborar o comentar?
 
 ✨ ¡Siempre estoy abierta a feedback en mis repos!  
 📬 Puedes contactarme por GitHub o desde mis proyectos.
