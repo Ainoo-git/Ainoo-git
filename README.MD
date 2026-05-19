@@ -43,6 +43,7 @@ Me gusta organizar proyectos bien estructurados, aplicar buenas prácticas y seg
 ![JDBC](https://img.shields.io/badge/JDBC-ff66b2?style=for-the-badge&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ff80ab?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-ff66b2?style=for-the-badge&logo=supabase&logoColor=white)
+![PostMan](https://img.shields.io/badge/PostMan-ff66b2?style=for-the-badge&logo=supabase&logoColor=white)
 ![DBVisualizer](https://img.shields.io/badge/DBVisualizer-ff99cc?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
