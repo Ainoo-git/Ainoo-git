@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hola, soy Ainoha 🌸</h1>
-<h3 align="center">💻 Estudiante de 2º DAM | Programadora en progreso ✨</h3>
+<h3 align="center"> Estudiante de 2º DAM | Programadora en progreso </h3>
 
 ---
 
